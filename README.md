@@ -1,0 +1,2 @@
+# 2023Depositar_Dashboard_Hvplot
+DMP視角下，基於CKAN機制的Depositar資料集與Wikidata關鍵字的資訊儀表板
